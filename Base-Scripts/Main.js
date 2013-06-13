@@ -2,5 +2,5 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-console.log("loading scrip...");
-
+console.log("loading script...");
+// Testing comit
