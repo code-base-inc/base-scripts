@@ -1,4 +1,4 @@
-.carbonad input[text]{
+.carbonad input[type=text]{
     margin-top: 8px;
     margin-right: 8px;
 }
