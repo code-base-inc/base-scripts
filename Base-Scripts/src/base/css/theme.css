@@ -15,3 +15,5 @@
 
 .link-register { cursor: pointer; color: #0088cc; }
 .link-register:hover{color: #005580;}
+.jumbotron a {cursor: pointer; color: #0088cc;}
+.jumbotron a:hover{color: #005580;}
