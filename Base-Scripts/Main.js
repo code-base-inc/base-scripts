@@ -5,7 +5,7 @@ var home = {
         <input id='reg-company-name' type='text' class='input-block-level' placeholder='Nombre de la empresa'>\n\
         <input id='reg-email' type='text' class='input-block-level' placeholder='Correo electronico'>\n\
         <input id='reg-pass' type='password' class='input-block-level' placeholder='Contraseña'>\n\
-        <button id="reg-btn" class='btn btn-large btn-primary text-right' type='submit'>Registrar</button>\n\
+        <button id='reg-btn' class='btn btn-large btn-primary text-right' type='submit'>Registrar</button>\n\
         </form>";
         $("body").append(form);
         $("#register-form").dialog({modal:true});
