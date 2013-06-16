@@ -21,7 +21,7 @@ var home = {
         };
         
         $.ajax({ 
-            url:"test-aplications/profile/user",
+            url:"http://test-aplications/profile/user",
             dataType:"json",type:"POST", 
             data: args, 
             success:function(data){
